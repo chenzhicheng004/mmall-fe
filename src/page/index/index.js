@@ -1,4 +1,4 @@
 
-var $ = require('jquery');
-$("body").html('hello index');
-console.log('hello index');
+var aaa = require('./index.css');
+var bbb = require('../module.js');
+console.log('aaa');
